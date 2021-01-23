@@ -1,0 +1,24 @@
+body {background-color: orangered;}
+
+h1 {
+    color: orangered;
+    text-align: center;
+    background-color: black;
+    font-size: 100px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.college {
+    font-weight: bold;
+}
+
+.pro {
+    font-weight: bold;
+}
